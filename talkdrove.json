@@ -1,0 +1,26 @@
+{
+    "bot-name": "Golden-Queen-MD",
+    "description": "One Bot Unlimited features",
+    "logo": "https://i.ibb.co/VWpDxwDJ/Money-Heist-MD-DILALK-906d34ba845d19c4.jpg",
+    "keywords": ["bot","golden","queen","md","autosave","whatsapp","sinhala","song","new","dila","contactsave"],
+    "documentation-link": "https://oyster-app-hq88o.ondigitalocean.app/",
+    "owner-verification":"haansaanaa@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here.  get session id from here, https://oyster-app-hq88o.ondigitalocean.app/pair",
+        "value":"",
+        "required": true
+        
+      },
+      "MONGODB": {
+        "description": "Set Your Mongodb Url...",
+        "value":".",
+        "required": true
+        
+      }
+ 
+    
+    }
+  
+      }
